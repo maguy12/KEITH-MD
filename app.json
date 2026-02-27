@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 243982697752, 243846064543",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 243801987897",
       "required": false
     },
     "SESSION": {
